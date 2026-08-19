@@ -1,4 +1,4 @@
-# Financial Sentiment Analysis 📈
+# Financial Sentiment Analysis 
 
 Classify the sentiment (**positive**, **negative**, or **neutral**) of short financial statements and news sentences using classic machine learning models and a deep learning (Bi-LSTM + CNN) model.
 
